@@ -1,0 +1,7 @@
+ps20venv/
+__pycache__/
+dataset/
+*.csv
+*.jsonl
+model.yml
+labels.json
